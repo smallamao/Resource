@@ -68,5 +68,6 @@
    "iPod5,1": "iPod touch (5nd gen)",
    "iPod7,1": "iPod touch (6nd gen)",
    "i386": "Simulator",
-   "x86_64": "Simulator"
+   "x86_64": "Simulator",
+   "lastUpdate": "2018/04/11"
 }
