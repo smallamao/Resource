@@ -9,7 +9,44 @@
     {
       "hoilday": "1080124-1080211",
       "orderDate": "1080110",
-      "openArea": ""
+      "openArea": "",
+      "comment":"春節"
+    },
+    {
+      "hoilday": "1080227-1080304",
+      "orderDate": "1080213",
+      "openArea": "",
+      "comment":"和平紀念日"
+    },
+    {
+      "hoilday": "1080403-1080408",
+      "orderDate": "1080320",
+      "openArea": "",
+      "comment":"清明"
+    },
+    {
+      "hoilday": "1080510-1080513",
+      "orderDate": "1080426",
+      "openArea": "",
+      "comment":"母親"
+    },
+    {
+      "hoilday": "1080606-1080610",
+      "orderDate": "1080523",
+      "openArea": "",
+      "comment":"端午"
+    },
+    {
+      "hoilday": "1080912-1080916",
+      "orderDate": "1080829",
+      "openArea": "",
+      "comment":"中秋"
+    },
+    {
+      "hoilday": "1081009-1081014",
+      "orderDate": "1080925",
+      "openArea": "",
+      "comment":"國慶"
     }
   ]
 }
