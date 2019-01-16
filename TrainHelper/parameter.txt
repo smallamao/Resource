@@ -1,15 +1,16 @@
 {
   "randomPicSetContentOffset": "40",
   "hoildayOrderTicketDate": [
+
     {
-      "hoilday": "1080123-1080211",
-      "orderDate": "1080109",
+      "hoilday": "1080130-1080228",
+      "orderDate": "1080116",
       "openArea": "宜蘭/花蓮/臺東"
 
     },
     {
-      "hoilday": "1080124-1080211",
-      "orderDate": "1080110",
+      "hoilday": "1080131-1080228",
+      "orderDate": "1080117",
       "openArea": ""
 
     }
