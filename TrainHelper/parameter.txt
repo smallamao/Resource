@@ -47,6 +47,12 @@
       "orderDate": "1080925",
       "openArea": "",
       "comment":"國慶"
+    },
+    {
+      "hoilday": "1090122-1090131",
+      "orderDate": "1081220",
+      "openArea": "",
+      "comment":"春節"
     }
   ]
 }
