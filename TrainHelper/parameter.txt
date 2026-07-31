@@ -5,55 +5,55 @@
       "hoilday": "1110126-1110207",
       "orderDate": "1101229",
       "openArea": "宜蘭/花蓮/臺東",
-      "comment":"春節"
+      "comment": "春節"
     },
     {
       "hoilday": "1110127-1110207",
       "orderDate": "1101230",
       "openArea": "",
-      "comment":"春節"
+      "comment": "春節"
     },
     {
       "hoilday": "1110225-1110301",
-      "orderDate": "110128",
+      "orderDate": "1100128",
       "openArea": "",
-      "comment":"和平紀念日"
+      "comment": "和平紀念日"
     },
     {
       "hoilday": "1110401-1110406",
       "orderDate": "1110304",
       "openArea": "",
-      "comment":"清明"
+      "comment": "清明"
     },
     {
       "hoilday": "1110506-1110509",
       "orderDate": "1110408",
       "openArea": "",
-      "comment":"母親"
+      "comment": "母親"
     },
     {
       "hoilday": "1110602-1110606",
       "orderDate": "1110505",
       "openArea": "",
-      "comment":"端午"
+      "comment": "端午"
     },
     {
       "hoilday": "1110908-1110912",
       "orderDate": "1110811",
       "openArea": "",
-      "comment":"中秋"
+      "comment": "中秋"
     },
     {
       "hoilday": "1111007-1111011",
       "orderDate": "1110909",
       "openArea": "",
-      "comment":"國慶"
+      "comment": "國慶"
     },
     {
       "hoilday": "1111230-1120103",
       "orderDate": "1111202",
       "openArea": "",
-      "comment":"元旦"
+      "comment": "元旦"
     },
     {
       "hoilday": "1080123-1080211",
@@ -64,49 +64,73 @@
       "hoilday": "1080124-1080211",
       "orderDate": "1080110",
       "openArea": "",
-      "comment":"春節"
+      "comment": "春節"
     },
     {
       "hoilday": "1080227-1080304",
       "orderDate": "1080213",
       "openArea": "",
-      "comment":"和平紀念日"
+      "comment": "和平紀念日"
     },
     {
       "hoilday": "1080403-1080408",
       "orderDate": "1080320",
       "openArea": "",
-      "comment":"清明"
+      "comment": "清明"
     },
     {
       "hoilday": "1080510-1080513",
       "orderDate": "1080426",
       "openArea": "",
-      "comment":"母親"
+      "comment": "母親"
     },
     {
       "hoilday": "1080606-1080610",
       "orderDate": "1080523",
       "openArea": "",
-      "comment":"端午"
+      "comment": "端午"
     },
     {
       "hoilday": "1080912-1080916",
       "orderDate": "1080829",
       "openArea": "",
-      "comment":"中秋"
+      "comment": "中秋"
     },
     {
       "hoilday": "1081009-1081014",
       "orderDate": "1080925",
       "openArea": "",
-      "comment":"國慶"
+      "comment": "國慶"
     },
     {
       "hoilday": "1090122-1090131",
       "orderDate": "1081220",
       "openArea": "",
-      "comment":"春節"
+      "comment": "春節"
+    },
+    {
+      "hoilday": "1150922-1150929",
+      "orderDate": "1150825",
+      "openArea": "",
+      "comment": "中秋節及教師節"
+    },
+    {
+      "hoilday": "1151006-1151012",
+      "orderDate": "1150908",
+      "openArea": "",
+      "comment": "國慶日"
+    },
+    {
+      "hoilday": "1151021-1151027",
+      "orderDate": "1150923",
+      "openArea": "",
+      "comment": "臺灣光復節"
+    },
+    {
+      "hoilday": "1151222-1151228",
+      "orderDate": "1151124",
+      "openArea": "",
+      "comment": "行憲紀念日"
     }
   ]
 }
